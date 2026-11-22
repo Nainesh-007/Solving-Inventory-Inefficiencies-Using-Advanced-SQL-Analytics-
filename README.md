@@ -107,7 +107,7 @@ Every store holds about **1.5 days** of stock and turns it about **242 times a y
 | Holiday promotion | 113.1 vs 93.8 units, about **+20%** |
 | Winter | 105.2 units vs about 92 in other seasons |
 | Promotion in winter | 123.1 vs 89.2 (autumn, no promotion), about **+38%** |  
-| Discount (0–20%) | **No effect**: about 96.5–96.9 units at every level |
+| Discount (0–20%) | **No measurable effect in this dataset.**: about 96.5–96.9 units at every level |
 
 ### 5. Cost of discounts
 Discounts gave away about **43.9 million (7.5% of sales before discount)** without raising sales volume. This suggests testing whether blanket discounting pays for itself.
@@ -178,7 +178,7 @@ Discounts gave away about **43.9 million (7.5% of sales before discount)** witho
 
 ```
 ├── README.md
-├── inventory_queries_with_headings.sql    # full script: tables, load, views, analysis
+├── inventory_analytics.sql                # full script: tables, load, views, analysis
 ├── inventory_forecasting.csv              # source data
 └── screenshots/                           # query results
 ```
