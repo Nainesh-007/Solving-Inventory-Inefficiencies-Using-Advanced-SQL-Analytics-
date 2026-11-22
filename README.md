@@ -163,14 +163,39 @@ Discounts gave away about **43.9 million (7.5% of sales before discount)** witho
 
 ### 7. Seasonal Effects
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/24aed7d2-1a54-4521-a71c-488d472f8a93" width="650" alt="Seasonal Effects">
+  <img src="https://github.com/user-attachments/assets/caed6ebd-0886-493e-af8a-8bcbe419f37e" width="650" >
 </p>
 
 ### 8. Discount Effects
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/caed6ebd-0886-493e-af8a-8bcbe419f37e" width="650" alt="Discount Effects">
+  <img src="https://github.com/user-attachments/assets/24aed7d2-1a54-4521-a71c-488d472f8a93" width="650" >
 </p>
 
+### 9. Sales by Category
+<p align="center">
+   <img width="478" height="220" alt="Screenshot 2026-11-22 224242" src="https://github.com/user-attachments/assets/6c8d8b8a-d9d6-430a-a63a-ea82ec959abb" />
+</p>
+
+### 10. Critical Items by Category
+<p align="center">
+  <img width="377" height="220" alt="Screenshot 2026-11-22 224952" src="https://github.com/user-attachments/assets/185ecd6d-fc92-4d91-b93d-9dbba3dbe80f" />
+</p>
+
+### 11. Stock Shortage by Store
+<p align="center">
+  <img width="391" height="211" alt="Screenshot 2026-11-22 224431" src="https://github.com/user-attachments/assets/01489667-96dd-4d6a-a230-9e052bb5ed10" />
+
+</p>
+
+### 12. Promotion Effect by Season
+<p align="center">
+  <img width="512" height="311" alt="Screenshot 2026-11-22 224802" src="https://github.com/user-attachments/assets/e34aa4b5-273b-4cf8-a294-bd1344bcdc19" />
+</p>
+
+### 13. Ordered vs Sold
+<p align="center">
+  <img width="512" height="215" alt="Screenshot 2026-11-22 224838" src="https://github.com/user-attachments/assets/a1b515e4-73d1-4602-8bf0-69ca2b871ebd" />
+</p>
 
 ---
 
